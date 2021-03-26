@@ -1,2 +1,2 @@
 # cloudrepo
-cloud computing exploration repo
+cloud computing exploration repo for testing and learning
